@@ -39,4 +39,4 @@ The project features a series of structured problems under the **CodeStorm Chall
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/capstone-intro-to-python.git
+   git clone https://github.com/ashhxwin/capstone-intro-to-python.git
